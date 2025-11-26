@@ -45,27 +45,20 @@ I built an AI sales agent for a computer equipement Ecommerce website, the agent
 
 ### Setup
 
-1. **Clone the repository:**
-
-   ```sh
-   git clone https://github.com/kaymen99/ai-sales-agent.git
-   cd ai-sales-agent/website-sale-agent
-   ```
-
-2. **Create and activate a virtual environment:**
+1. **Create and activate a virtual environment:**
 
    ```sh
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
-3. **Install the required packages:**
+2. **Install the required packages:**
 
    ```sh
    pip install -r requirements.txt
    ```
 
-4. **Set up environment variables:**
+3. **Set up environment variables:**
 
    Create a `.env` file in the root directory of the project and add your API keys:
 
@@ -96,4 +89,8 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at `aymenMir1001@gmail.com`.
+If you have any questions or suggestions, feel free to contact me at `Fahanawan113@gmail.com`.
+
+Also you can contact me on: 
+
+https://www.upwork.com/freelancers/~01407d28da3bf7ce50
